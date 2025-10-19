@@ -1,4 +1,15 @@
-## Hi there 👋
+<div align="center">
+
+# 👋 Hey, I'm Ganesh!
+
+🚀 **Software Engineer | AI & Agentic Systems Builder | Tech Enthusiast | Content Creator**
+
+Welcome to my GitHub!
+
+I specialize in building **AI-driven, agentic, and automation systems** using cutting-edge tools like **LangChain**, **FastAPI**, **CrewAI**, and **Mosaic AI** — connecting intelligence, data, and infrastructure to create seamless end-to-end workflows.
+
+--- 
+</div>
 
 <!--
 **IGaneshD/IGaneshD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
----
+<div align="center">
 
 ## 💡 Tech Stack
 
@@ -33,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
----
+
 
 ### ⚙️ Backend Development
 <p>
@@ -45,7 +54,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
----
+
 
 ### 💻 Frontend Development
 <p>
@@ -54,7 +63,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
 
 ### 🧱 Databases
 <p>
@@ -62,7 +70,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
----
 
 ### 🧩 DevOps & Infrastructure
 <p>
@@ -74,7 +81,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
 </p>
 
----
+
 
 ### 🧰 Tools & Workflow
 <p>
@@ -83,7 +90,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
+
 
 ### 🧠 Programming Languages
 <p>
@@ -93,14 +100,15 @@ Here are some ideas to get you started:
 
 ---
 
-## 💬 Let’s Connect
+## 📫 How to reach me
 
 📩 **Email:** _ganesha.deshmukh@proton.me_  
 💼 **LinkedIn:** [Ganesh on LinkedIn](https://www.linkedin.com/in/itsganeshdeshmukh) 
 
 ---
 
-
-## ```Think. Code. Automate. Repeat.```
-### *`Because great systems aren’t built — they evolve.`*
+## `Think. Code. Automate. Repeat.`
+## *`Because great systems aren’t built — they evolve.`*
 ##  *- Ganesha*
+
+</div>
